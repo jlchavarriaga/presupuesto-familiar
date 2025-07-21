@@ -208,10 +208,11 @@ marimo/_lsp/
 __marimo__/
 
 
-# Environment
+# Environment # .gitignore
 .env
 .env.local
 venv/
+*.env
 
 __pycache__/
 *.pyc
